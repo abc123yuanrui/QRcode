@@ -1,0 +1,13 @@
+{
+  "name": "QRcode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:abc123yuanrui/QRcode.git",
+  "author": "yicongsuo <yicongsuo@sageviewtech.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
